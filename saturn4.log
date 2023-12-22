@@ -1,0 +1,9 @@
+
+Gitignore file
+	- This file is used to tell git the files you want ignored. You create it for each branch
+	- Create the file
+		○ vim .gitignore
+		○ Add the paths to the files or the files (you can use wildcards) you want ignored
+		○ Git status
+		○ Git commit -m 'git-ignore'
+		○ Git push origin main
