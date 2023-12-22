@@ -1,3 +1,0 @@
-git remote add origin https://github.com/originalugo/git-demo-repo.git
-git branch -M master
-git push -u origin master
